@@ -9,10 +9,11 @@ by **Riaan de Beer (2026)**.
 
 The definitive version of this work is published on Zenodo and should be cited using the DOI above.
 
-## Published Version
+## Citation
 
-**de Beer, R.** (2026). *Identity as Commitment Continuity: Persistence Under Irreversible Time* (v1.0).  
-Zenodo. https://doi.org/10.5281/zenodo.18602390
+> **de Beer, R.** (2026).  
+> *Identity as Commitment Continuity: Persistence Under Irreversible Time* (v1.0).  
+> Zenodo. https://doi.org/10.5281/zenodo.18602390
 
 ## Status
 
